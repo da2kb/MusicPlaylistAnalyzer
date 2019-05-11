@@ -1,0 +1,7 @@
+C:\Users\dina_\PlaylistAnalyzer\PlaylistAnalyzer\obj\Debug\PlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\dina_\PlaylistAnalyzer\PlaylistAnalyzer\obj\Debug\PlaylistAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\dina_\PlaylistAnalyzer\PlaylistAnalyzer\bin\Debug\PlaylistAnalyzer.exe.config
+C:\Users\dina_\PlaylistAnalyzer\PlaylistAnalyzer\bin\Debug\PlaylistAnalyzer.exe
+C:\Users\dina_\PlaylistAnalyzer\PlaylistAnalyzer\bin\Debug\PlaylistAnalyzer.pdb
+C:\Users\dina_\PlaylistAnalyzer\PlaylistAnalyzer\obj\Debug\PlaylistAnalyzer.exe
+C:\Users\dina_\PlaylistAnalyzer\PlaylistAnalyzer\obj\Debug\PlaylistAnalyzer.pdb
